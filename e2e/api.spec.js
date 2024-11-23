@@ -7,3 +7,6 @@ test('GET API Test', async ({ request }) => {
     console.log(data);
     expect(data).toHaveProperty('id', 1);
 });
+
+
+hello test check
