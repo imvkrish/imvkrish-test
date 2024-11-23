@@ -9,4 +9,4 @@ test('GET API Test', async ({ request }) => {
 });
 
 
-hello test check
+hello test check me to the domain from pc
