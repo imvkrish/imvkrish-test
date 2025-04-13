@@ -1,0 +1,322 @@
+{
+  "cookies": [
+    {
+      "name": "_ga",
+      "value": "GA1.1.658875825.1740623851",
+      "domain": ".expandtesting.com",
+      "path": "/",
+      "expires": 1775183872.074371,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "IDE",
+      "value": "AHWqTUkonlFQds8upViwQO6jbYchwBEX7sBZY8aX6m7NuT30FmAGsLDaPIwUTsLGM8w",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1775183852.132976,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__gads",
+      "value": "ID=e15539b44d205004:T=1740623852:RT=1740623852:S=ALNI_Mbz023lCdHtbQKHMT7hHulz6r8_1g",
+      "domain": ".expandtesting.com",
+      "path": "/",
+      "expires": 1774319852,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__gpi",
+      "value": "UID=0000104d49394508:T=1740623852:RT=1740623852:S=ALNI_MauKAHZ9-cwIkn63plinxajPQ-saw",
+      "domain": ".expandtesting.com",
+      "path": "/",
+      "expires": 1774319852,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__eoi",
+      "value": "ID=eb38c73257b84a3c:T=1740623852:RT=1740623852:S=AA-AfjYVettj9t6YpIrW1C4iPVLr",
+      "domain": ".expandtesting.com",
+      "path": "/",
+      "expires": 1756175852,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMID",
+      "value": "Z7-P7hdaRCcAL1N3ANJa8AAA",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1772159853.8767,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMPS",
+      "value": "5348",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1748399853.28911,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMPRO",
+      "value": "5348",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1748399853.876849,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "XANDR_PANID",
+      "value": "6-bVNH0pyyXdLz_EJ7auiabb4B7ka_8ETyybqRzEEpwQeaaI28Pmt5r_wjT5qJ0_AuouP5hKSM90zh8lf5t7NI108ws4zYCJ6QCLQ0QRf5U.",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1748399853.491149,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1775183853.491278,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uuid2",
+      "value": "5630471124240014487",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1748399853.491312,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "i",
+      "value": "d49c800a-73bd-46c4-8282-a46c6de2f97e|1740623854",
+      "domain": ".openx.net",
+      "path": "/",
+      "expires": 1772159853.476621,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "anj",
+      "value": "dTM7k!M41.D>6NRF']wIg2E>7x4iKV!]tbPl1M>e)ZlrFUfJ+tGXxoyVrkv]WsK=KD$k33IJfhjGWpzmYvoZ@x:eko3If)y3KL9D3I?-55(J>8",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1748399853.49125,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tt_viewer",
+      "value": "d834bda7-8cbc-42f0-92dc-67965a51196f",
+      "domain": ".teads.tv",
+      "path": "/",
+      "expires": 1772073453.649844,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ar_debug",
+      "value": "1",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1743215874.134026,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1756175874.134179,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ar_debug",
+      "value": "1",
+      "domain": ".www.google-analytics.com",
+      "path": "/",
+      "expires": 1748399869.830104,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "express:sess",
+      "value": "eyJmbGFzaCI6e30sInVzZXJuYW1lIjoicHJhY3Rpc2UifQ==",
+      "domain": "practice.expandtesting.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "express:sess.sig",
+      "value": "N8X7_mGHqbV45-aZURgRjLm1P-w",
+      "domain": "practice.expandtesting.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TDID",
+      "value": "a9ce9233-68d7-4b7a-9404-b7e10f4a8a52",
+      "domain": ".adsrvr.org",
+      "path": "/",
+      "expires": 1772159873.920868,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "g",
+      "value": "0oazhaXPYUAyfIvU4vEc_1740623874461",
+      "domain": ".creativecdn.com",
+      "path": "/",
+      "expires": 1772159873.611501,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ts",
+      "value": "1740623874",
+      "domain": ".creativecdn.com",
+      "path": "/",
+      "expires": 1772159873.611664,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "zuid",
+      "value": "nbiDBeLRCdS19wZ7T-sJ",
+      "domain": ".zemanta.com",
+      "path": "/",
+      "expires": 1772159874.95446,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TDCPM",
+      "value": "CAESFQoGZ29vZ2xlEgsIyu-317i46z0QBRgFIAIoAjILCOC__v3OuOs9EAU4AQ..",
+      "domain": ".adsrvr.org",
+      "path": "/",
+      "expires": 1772159873.92104,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "google_push",
+      "value": "AXcoOmQZ7GEUDuHxwN_S3x4xGKVpxXq8cpDRWcVq0X2yHdUp8lbxTr4o0VzpOM9kEAsmrcWfLUiY0ZeLS_q9xxVNSY37xKnNweduBrlEccnMEIogK4SEDabpowWXpniEne1DR9NKWAD8naxg-mk",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1740624173.99736,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "FCNEC",
+      "value": "%5B%5B%22AKsRol-IyiYOfab9NHp93e-v295CTKlod7xiq_syeymF7sYBKT7yxL9MYLohcXX7XbHTeD7BJylNcOWb5TWWYaCYVfibE3ZznxWW0CtDfgtAoth-mqiKnNI5SZqyr5Xjs-zeE9s4VSTeMJCuWYuN5iwmj0hCjSty5Q%3D%3D%22%5D%5D",
+      "domain": ".expandtesting.com",
+      "path": "/",
+      "expires": 1772159874,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "obuid",
+      "value": "1e64e7e5-4f59-4860-b132-8556945ba57a",
+      "domain": ".outbrain.com",
+      "path": "/",
+      "expires": 1772159874.704052,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "io",
+      "value": "dSVDX92xhxlVRsAcAMnB",
+      "domain": "practice.expandtesting.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_90GRT6N40B",
+      "value": "GS1.1.1740623850.1.1.1740623884.0.0.0",
+      "domain": ".expandtesting.com",
+      "path": "/",
+      "expires": 1775183884.036463,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://practice.expandtesting.com",
+      "localStorage": [
+        {
+          "name": "google_adsense_settings",
+          "value": "{\"ca-pub-1056034821646296\":[\"ca-pub-1056034821646296\",[[1]]]}"
+        },
+        {
+          "name": "google_ama_settings",
+          "value": "[1740710273146,1]"
+        },
+        {
+          "name": "google_ama_config",
+          "value": "[[[[null,0,null,[],null,null,\"DIV.page-layout>DIV.container>DIV.row.content\"],4,[\"10px\",\"10px\",1],[3],null,[],[],1,[],[]],[[null,3,null,[],null,null,\"DIV.page-layout>DIV.container>DIV.row>DIV\"],4,[\"10px\",\"10px\",1],[3],null,[],[],1,[],[5]],[[null,0,null,[],null,null,\"BODY\"],2,[\"10px\",\"10px\",1],[4],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.page-layout>DIV.container>DIV.row>DIV.row\"],4,[\"10px\",\"8px\",1],[3],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"SECTION#apps>DIV.row\"],4,[\"10px\",\"8px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.App>DIV.container>DIV.row.flex-lg-row.align-items-center>DIV>DIV.d-grid.d-md-flex.justify-content-md-start\"],1,[\"10px\",\"8px\",1],[0],null,[],[],1,[],[]],[[null,3,null,[],null,null,\"DIV.page-layout>DIV.container>DIV.row\"],1,[\"16px\",\"10px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.ad-bar\"],3,[\"10px\",\"10px\",1],[4],null,[],[],1,[],[]],[[null,2,null,[],null,null,\"SECTION#examples>DIV.row\"],4,[\"10px\",\"8px\",1],[1],null,[],[],1,[],[]],[[null,8,null,[],null,null,\"SECTION#examples>DIV.row\"],4,[\"10px\",\"8px\",1],[1],null,[],[],1,[],[]],[[null,12,null,[],null,null,\"SECTION#examples>DIV.row\"],4,[\"10px\",\"8px\",1],[1],null,[],[],1,[],[]],[[null,1,null,[],null,null,\"DIV.App>DIV.container>DIV.row.flex-lg-row.align-items-center>DIV>DIV\"],1,[\"24px\",\"10px\",1],[0],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.page-layout\"],4,[\"10px\",\"10px\",1],[3],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.page-layout>DIV.container>NAV\"],4,[\"10px\",\"10px\",1],[2],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.page-layout>DIV.container>DIV.search-form\"],4,[\"16px\",\"10px\",1],[2],null,[],[],1,[],[]],[[null,15,null,[],null,null,\"SECTION#examples>DIV.row\"],4,[\"10px\",\"8px\",1],[1],null,[],[],1,[],[]],[[null,1,null,[],null,null,\"SECTION#assertions>DIV.row\"],4,[\"10px\",\"8px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"BODY\"],3,[\"10px\",\"10px\",1],[5],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.ad-bar\"],2,[\"10px\",\"10px\",1],[4],null,[],[],1,[],[]],[[null,6,null,[],null,null,\"SECTION#examples>DIV.row\"],4,[\"10px\",\"8px\",1],[1],null,[],[],1,[],[]],[[null,4,null,[],null,null,\"SECTION#examples>DIV.row\"],4,[\"10px\",\"8px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"BODY>FOOTER.footer.mt-auto.bg-light>DIV.container>DIV.copyright.bg-footer>DIV.border-top\"],4,[\"10px\",\"10px\",1],[5],null,[],[],1,[],[]],[[null,11,null,[],null,null,\"SECTION#examples>DIV.row\"],4,[\"10px\",\"8px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"SECTION#tools>DIV.row\"],4,[\"10px\",\"8px\",1],[1],null,[],[],1,[],[]],[[null,9,null,[],null,null,\"SECTION#examples>DIV.row\"],4,[\"10px\",\"8px\",1],[1],null,[],[],1,[],[]],[[null,1,null,[],null,null,\"SECTION#examples>DIV.row\"],4,[\"10px\",\"8px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"BODY>MAIN>DIV.container-fluid\"],1,[\"4px\",\"10px\",1],[2],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"SECTION#api>DIV.row\"],4,[\"10px\",\"8px\",1],[1],null,[],[],1,[],[]],[[null,1,null,[],null,null,\"SECTION#apps>DIV.row\"],4,[\"10px\",\"8px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.page-layout\"],1,[\"10px\",\"10px\",1],[2],null,[],[],1,[],[]],[[null,14,null,[],null,null,\"SECTION#examples>DIV.row\"],4,[\"10px\",\"8px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.page-layout>DIV.container>NAV.navbar.navbar-dark\"],4,[\"16px\",\"10px\",1],[2],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#home-header\"],4,[\"10px\",\"16px\",1],[2],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#support-coffee\"],4,[\"10px\",\"10px\",1],[2],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.ad-bar\"],4,[\"10px\",\"10px\",1],[4],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.page-layout>DIV.container>NAV.navbar.navbar-dark>DIV.container.d-flex.justify-content-between.align-items-center\"],1,[\"10px\",\"10px\",1],[2],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.page-layout>DIV.container>NAV\"],1,[\"10px\",\"10px\",1],[2],null,[],[],1,[],[]],[[null,7,null,[],null,null,\"SECTION#examples>DIV.row\"],4,[\"10px\",\"8px\",1],[1],null,[],[],1,[],[]],[[null,3,null,[],null,null,\"SECTION#examples>DIV.row\"],4,[\"10px\",\"8px\",1],[1],null,[],[],1,[],[]],[[null,1,null,[],null,null,\"DIV.App>DIV.container>DIV.row.flex-lg-row.align-items-center>DIV>DIV\"],4,[\"10px\",\"24px\",1],[0],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"SECTION#reports>DIV.row\"],4,[\"10px\",\"8px\",1],[1],null,[],[],1,[],[]],[[null,13,null,[],null,null,\"SECTION#examples>DIV.row\"],4,[\"10px\",\"8px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#examples-sections\"],1,[\"10px\",\"8px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"SECTION#assertions>DIV.row\"],4,[\"10px\",\"8px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"SECTION#examples>DIV.row\"],4,[\"10px\",\"8px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"SECTION#examples\"],4,[\"10px\",\"10px\",1],[1],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.page-layout>DIV.container>NAV.navbar.navbar-dark>DIV.container.d-flex.justify-content-between.align-items-center\"],4,[\"16px\",\"10px\",1],[2],null,[],[],1,[],[]],[[null,10,null,[],null,null,\"SECTION#examples>DIV.row\"],4,[\"10px\",\"8px\",1],[1],null,[],[],1,[],[]],[[null,1,null,[],null,null,\"DIV.page-layout>DIV.container>DIV.row>DIV.row\"],4,[\"176.906px\",\"8px\",1],[3],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"BODY>FOOTER.footer.mt-auto.bg-light>DIV.container>DIV.copyright.bg-footer\"],1,[\"10px\",\"10px\",1],[3],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"BODY>FOOTER.footer.mt-auto.bg-light\"],1,[\"10px\",\"10px\",1],[0],null,[],[],1,[],[2,4]],[[null,5,null,[],null,null,\"SECTION#examples>DIV.row\"],4,[\"10px\",\"8px\",1],[1],null,[],[],1,[],[]]],[],[1740710273085],\"20250223_093416\",[],[[[[null,3,null,[],null,null,\"DIV.page-layout>DIV.container>DIV.row>DIV\"],[null,null,null,[],null,null,\"P\"],null,[null,null,null,[],null,null,\"H2,H3,P\"]],[[null,2,null,[],null,null,\"DIV.page-layout>DIV.container>DIV.row>DIV\"],[null,null,null,[]]],[[null,0,null,[],null,null,\"SECTION#apps>DIV.row>DIV>DIV.card.card-custom>DIV.card-body\"],[null,null,null,[],null,null,\"P.card-text\"],null,[null,null,null,[],null,null,\"H3.card-title.expand-card-title,P.card-text\"]],[[null,2,null,[],null,null,\"SECTION#examples>DIV.row>DIV>DIV.card.card-custom>DIV.card-body\"],[null,null,null,[],null,null,\"P.card-text\"],null,[null,null,null,[],null,null,\"H3.card-title.expand-card-title,P.card-text\"]],[[null,1,null,[],null,null,\"SECTION#assertions>DIV.row>DIV>DIV.card.card-custom>DIV.card-body\"],[null,null,null,[],null,null,\"P.card-text\"],null,[null,null,null,[],null,null,\"H3.card-title.expand-card-title,P.card-text\"]],[[null,null,null,[],null,null,\"SECTION#examples\"],[null,null,null,[],null,null,\"H2\"],null,[null,null,null,[],null,null,\"H2,H3.card-title.expand-card-title,P.card-text\"]],[[null,2,null,[],null,null,\"DIV.page-layout>DIV.container>DIV.row>DIV\"],[null,null,null,[],null,null,\"P\"],null,[null,null,null,[],null,null,\"H3,IMG.img-fluid,LI,P\"]],[[null,2,null,[],null,null,\"SECTION#assertions>DIV.row>DIV>DIV.card.card-custom>DIV.card-body\"],[null,null,null,[],null,null,\"P.card-text\"],null,[null,null,null,[],null,null,\"H3.card-title.expand-card-title,P.card-text\"]],[[null,3,null,[],null,null,\"SECTION#assertions>DIV.row>DIV>DIV.card.card-custom>DIV.card-body\"],[null,null,null,[],null,null,\"P.card-text\"],null,[null,null,null,[],null,null,\"H3.card-title.expand-card-title,P.card-text\"]],[[null,1,null,[],null,null,\"SECTION#examples>DIV.row>DIV>DIV.card.card-custom>DIV.card-body\"],[null,null,null,[],null,null,\"P.card-text\"],null,[null,null,null,[],null,null,\"H3.card-title.expand-card-title,P.card-text\"]],[[null,null,null,[],null,null,\"DIV.page-layout>DIV.container\"],[null,null,null,[],null,null,\"P\"],null,[null,null,null,[],null,null,\"DIV,H1,P\"]],[[null,1,null,[],null,null,\"SECTION#apps>DIV.row>DIV>DIV.card.card-custom>DIV.card-body\"],[null,null,null,[],null,null,\"P.card-text\"],null,[null,null,null,[],null,null,\"H3.card-title.expand-card-title,P.card-text\"]],[[null,1,null,[],null,null,\"SECTION#reports>DIV.row>DIV>DIV.card.card-custom>DIV.card-body\"],[null,null,null,[],null,null,\"P.card-text\"],null,[null,null,null,[],null,null,\"H3.card-title.expand-card-title,P.card-text\"]],[[null,0,null,[],null,null,\"SECTION#examples>DIV.row>DIV>DIV.card.card-custom>DIV.card-body\"],[null,null,null,[],null,null,\"P.card-text\"],null,[null,null,null,[],null,null,\"H3.card-title.expand-card-title,P.card-text\"]],[[null,2,null,[],null,null,\"SECTION#apps>DIV.row>DIV>DIV.card.card-custom>DIV.card-body\"],[null,null,null,[],null,null,\"P.card-text\"],null,[null,null,null,[],null,null,\"H3.card-title.expand-card-title,P.card-text\"]],[[null,0,null,[],null,null,\"SECTION#reports>DIV.row>DIV>DIV.card.card-custom>DIV.card-body\"],[null,null,null,[],null,null,\"P.card-text\"],null,[null,null,null,[],null,null,\"H3.card-title.expand-card-title,P.card-text\"]]]],[[null,[1,3,2],null,\"2533588893\",[],[],[0,2],null,null,[0.74000001,null,2,8,530,1],[]]],[null,[[1,\"1vp\",[[4,\"2vp\",\"2vp\"],[6,\"3vp\",\"3vp\"]],8,\"1vp\",0.30000001,[\"0.2vp\",\"0vp\",2]],[2,\"300px\",[[4,\"600px\",\"600px\"],[6,\"900px\",\"900px\"]],8,\"300px\",0.30000001,[\"60px\",\"0px\",2]]]],null,null,null,null,null,null,[null,null,null,null,null,null,null,null,null,null,null,0],null,null,[1,null,null,[]],null,[701108692],null,null,[1740431327707],null,null,null,null,[null,null,null,null,null,[95326511]],null,null,null,null,[[\"Toggle toolbar expansion\",\"Toggle privacy and legal settings display\",\"Dismiss privacy and legal settings display\"]]]"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "rc::h",
+          "value": "1740623855620"
+        }
+      ]
+    }
+  ]
+}

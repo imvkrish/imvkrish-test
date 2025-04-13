@@ -1,0 +1,245 @@
+{
+  "cookies": [
+    {
+      "name": "keep_alive",
+      "value": "16ef512f-ea28-4c5e-a1ff-f5ac89e5f0fd",
+      "domain": "sauce-demo.myshopify.com",
+      "path": "/",
+      "expires": 1740625228.185551,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "secure_customer_sig",
+      "value": "",
+      "domain": "sauce-demo.myshopify.com",
+      "path": "/",
+      "expires": 1772159429.976801,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "localization",
+      "value": "IN",
+      "domain": "sauce-demo.myshopify.com",
+      "path": "/",
+      "expires": 1772159428.186676,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cart_currency",
+      "value": "GBP",
+      "domain": "sauce-demo.myshopify.com",
+      "path": "/",
+      "expires": 1741833029.977013,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_y",
+      "value": "9B96476C-99ee-425D-9026-dc6277a2d965",
+      "domain": ".sauce-demo.myshopify.com",
+      "path": "/",
+      "expires": 1772181029.977211,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_s",
+      "value": "66DEE859-7e89-4434-b06b-48b84d276692",
+      "domain": ".sauce-demo.myshopify.com",
+      "path": "/",
+      "expires": 1740625229.977425,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_tracking_consent",
+      "value": "%7B%22con%22%3A%7B%22CMP%22%3A%7B%22a%22%3A%22%22%2C%22m%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22INTN%22%2C%22reg%22%3A%22%22%2C%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%2C%22consent_id%22%3A%2211A92B58-67ee-4C99-a895-1e757622c72b%22%7D",
+      "domain": ".sauce-demo.myshopify.com",
+      "path": "/",
+      "expires": 1772159428.187198,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_orig_referrer",
+      "value": "",
+      "domain": ".sauce-demo.myshopify.com",
+      "path": "/",
+      "expires": 1741833028.187345,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_landing_page",
+      "value": "%2Faccount%2Flogin",
+      "domain": ".sauce-demo.myshopify.com",
+      "path": "/",
+      "expires": 1741833028.187416,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_sa_t",
+      "value": "2025-02-27T02%3A30%3A29.734Z",
+      "domain": ".sauce-demo.myshopify.com",
+      "path": "/",
+      "expires": 1740625229,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_sa_p",
+      "value": "",
+      "domain": ".sauce-demo.myshopify.com",
+      "path": "/",
+      "expires": 1740625229,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__adroll",
+      "value": "15b2e3aa6b19e3dc96b56090612f8a8a-a_1740623431",
+      "domain": ".d.adroll.com",
+      "path": "/",
+      "expires": 1774751430.777811,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".d.adroll.com",
+      "path": "/",
+      "expires": 1774751430.777886,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".adroll.com",
+      "path": "/",
+      "expires": 1774751430.777957,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__adroll_shared",
+      "value": "15b2e3aa6b19e3dc96b56090612f8a8a-a_1740623431",
+      "domain": ".adroll.com",
+      "path": "/",
+      "expires": 1774751430.778045,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__adroll_fpc",
+      "value": "9ea0312134b00c920e5e8a8eec811480-1740623430617",
+      "domain": ".sauce-demo.myshopify.com",
+      "path": "/",
+      "expires": 1772181030,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__ar_v4",
+      "value": "%7CRLFWQFGQMZC2ZEMERYUQ34%3A20250229%3A1%7CGKTPKTIEIVDXDB73OLEF43%3A20250229%3A1%7CZEW3JXPLVRAQPNAKVX76KX%3A20250229%3A1",
+      "domain": ".sauce-demo.myshopify.com",
+      "path": "/",
+      "expires": 1772159430,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ar_debug",
+      "value": "1",
+      "domain": "x.adroll.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TapAd_TS",
+      "value": "1740623431802",
+      "domain": ".tapad.com",
+      "path": "/",
+      "expires": 1745807431.295156,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TapAd_DID",
+      "value": "cc8af6c7-d1a5-4b87-860c-cf86eaf7f53d",
+      "domain": ".tapad.com",
+      "path": "/",
+      "expires": 1745807431.295299,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pi",
+      "value": "3650844885075886164",
+      "domain": ".ml314.com",
+      "path": "/",
+      "expires": 1772159430.95849,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TDID",
+      "value": "a10d918a-7383-4de0-bad7-229d459ca8cf",
+      "domain": ".adsrvr.org",
+      "path": "/",
+      "expires": 1772159431.205894,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TDCPM",
+      "value": "CAESFAoFdGFwYWQSCwiSv7DZl7jrPRAFGAUgASgCMgsI1p_7ha646z0QBTgB",
+      "domain": ".adsrvr.org",
+      "path": "/",
+      "expires": 1772159431.206038,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TapAd_3WAY_SYNCS",
+      "value": "1!1394",
+      "domain": ".tapad.com",
+      "path": "/",
+      "expires": 1745807431.295368,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": []
+}
